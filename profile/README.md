@@ -1,72 +1,55 @@
-# 🌊 Wellen des Lichts
+# Wellen des Lichts
 
-> Professional Software Development • Architecture • Digital Solutions
+Professional Software Development · Software Architecture · Digital Solutions
 
-Welcome to the official GitHub organization of **Wellen des Lichts**.
+Wellen des Lichts develops reliable software solutions for businesses, organizations, mosques and non-profit institutions.
 
-We design and develop reliable, scalable and maintainable software solutions for businesses, organizations, mosques and non-profit institutions.
+Our focus is on long-term maintainability, clean architecture, security and high-quality user experience.
 
----
+## Mission
 
-# 🚀 Our Mission
+We build software that simplifies complex administrative processes while remaining scalable, secure and maintainable.
 
-Our mission is to build modern software that simplifies administration, improves productivity and creates long-term value for our customers.
+## Products
 
-Every project is developed with a strong focus on:
+### NoonFinance
 
-- Clean Architecture
-- High Performance
-- Security
-- Maintainability
-- Scalability
-- Professional User Experience
+Financial management platform for organizations.
 
----
+Key capabilities
 
-# 💼 Products
-
-## 🏦 NoonFinance
-
-Professional financial management platform.
-
-### Features
-
-- Financial management
+- Financial Management
 - Accounting
 - Reports
-- Interactive Dashboard
-- Charts & Statistics
-- PDF generation
+- Dashboards & Statistics
+- PDF Documents
 - User & Role Management
 - Multilingual (DE / FR / ES)
 
 Status
 
-✅ Official customer project
+Official customer project.
 
 ---
 
-## 🕌 MoscheeMembers
+### MoscheeMembers
 
-Professional member management platform.
+Member management platform for mosques.
 
-### Features
+Key capabilities
 
-- Member management
-- TV Dashboard
-- Contribution management
+- Member Management
+- TV Information Display
+- Contribution Management
 - PDF Receipts
 - Tax Certificates
-- Responsive administration
-- Live information display
+- Responsive Administration
 
 Status
 
-✅ Official customer project
+Official customer project.
 
----
-
-# ⚙️ Technology Stack
+## Technology
 
 - .NET 10
 - ASP.NET Core
@@ -77,22 +60,17 @@ Status
 - ASP.NET Core Identity
 - GitHub Actions
 
----
+## Customer References
 
-# 🌍 Languages
+Both products are successfully deployed by official customers. Signed customer reference confirmations are available.
 
-- 🇩🇪 German
-- 🇫🇷 French
-- 🇪🇸 Spanish
+## Contact
 
----
+Website  
+https://wellen-des-lichts.de
 
-# 📫 Contact
+Email  
+info@wellen-des-lichts.de
 
-🌐 https://wellen-des-lichts.de
-
-📧 info@wellen-des-lichts.de
-
-💼 LinkedIn
-
+LinkedIn  
 https://www.linkedin.com/in/mahmoud-borham-technology
