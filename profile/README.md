@@ -64,6 +64,10 @@ Official customer project.
 
 Both products are successfully deployed by official customers. Signed customer reference confirmations are available.
 
+<img width="2033" height="2822" alt="MoscheeMembers_Referenzbestätigung" src="https://github.com/user-attachments/assets/b03bcd6a-1749-4068-bdfe-7d2b2e1e3e2c" />
+
+<img width="2121" height="3019" alt="NuN_Referenzbestätigung" src="https://github.com/user-attachments/assets/4dd413b8-6c17-4d7d-aaa6-7dd3f6f9e85f" />
+
 ## Contact
 
 Website  
