@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: General Support
+    url: mailto:info@wellen-des-lichts.de
+    about: Contact Wellen des Lichts for general support.
+
+  - name: Security Report
+    url: mailto:info@wellen-des-lichts.de
+    about: Report security vulnerabilities privately.
